@@ -1,3 +1,5 @@
 signature.html
 *.mailsignature
 .DS_Store
+preview.html
+signature-threepeaks.html
