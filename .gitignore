@@ -3,3 +3,5 @@ signature.html
 .DS_Store
 preview.html
 signature-threepeaks.html
+embed/
+*-text.html
